@@ -1,4 +1,5 @@
 // Smooth Scrolling and Navigation
+
 document.addEventListener('DOMContentLoaded', function() {
     // Mobile Navigation Toggle
     const hamburger = document.getElementById('hamburger');
